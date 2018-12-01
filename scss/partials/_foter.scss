@@ -1,0 +1,31 @@
+.footer-container{
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #e0e0e0;
+}
+
+.footer-box{
+  padding-right: 50px;
+}
+
+.footer-box i {
+  padding: 10px;
+}
+
+.footer-box i:hover{
+  color: #127265;
+}
+
+
+
+.footer-rights{
+  width: 70%;
+
+  span{
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    margin: auto 50px;
+  }
+}
