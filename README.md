@@ -1,8 +1,8 @@
-Watch-Shop
+# Watch-Shop
 
 A simple website - the first project made under bootcamp Coders Lab
 
-STACK:
+ ## STACK:
 
   JavaScript, HTML, SASS, GULP
   
