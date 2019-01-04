@@ -6,4 +6,4 @@ STACK:
 
   JavaScript, HTML, SASS, GULP
   
-  ![website screen](./images/screenWatch.png)
+  ![website screen](./image/screenWatch.png)
